@@ -1,0 +1,20 @@
+[
+  {
+    "Id": "fc56ebea-a36d-48c4-8c92-92fa03b9737a",
+    "FullName": "test",
+    "Notes": "",
+    "ExpiryDate": "2026-05-02T00:00:00",
+    "Quantity": 3,
+    "Price": 3,
+    "Brand": "test"
+  },
+  {
+    "Id": "aa3127d1-d4d0-4e89-92c7-d08326b866f7",
+    "FullName": "medd",
+    "Notes": "",
+    "ExpiryDate": "2026-05-07T00:00:00",
+    "Quantity": 4,
+    "Price": 3,
+    "Brand": "dd"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "Id": "6523ddf9-c6ca-4d16-bc9a-b8e52260500a",
+    "FullName": "medicain 1",
+    "Notes": "",
+    "ExpiryDate": "2026-05-01T00:00:00",
+    "Quantity": 10,
+    "Price": 1,
+    "Brand": "brand1"
+  },
+  {
+    "Id": "147884b1-8600-4e1e-af81-35f5344d7a0a",
+    "FullName": "medicine2",
+    "Notes": "",
+    "ExpiryDate": "2026-07-24T00:00:00",
+    "Quantity": 15,
+    "Price": 2,
+    "Brand": "brand2"
+  },
+  {
+    "Id": "24a387f8-b40a-4b30-91bd-246a55874e69",
+    "FullName": "medicine3",
+    "Notes": "",
+    "ExpiryDate": "2026-05-02T00:00:00",
+    "Quantity": 5,
+    "Price": 1,
+    "Brand": "brand3"
+  },
+  {
+    "Id": "78e70197-83c8-45c8-95b7-369766e9ab95",
+    "FullName": "medicine4",
+    "Notes": "",
+    "ExpiryDate": "2026-06-19T00:00:00",
+    "Quantity": 5,
+    "Price": 1,
+    "Brand": "brand4"
+  }
+]
