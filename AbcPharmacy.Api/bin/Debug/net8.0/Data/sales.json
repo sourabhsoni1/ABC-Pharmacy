@@ -1,0 +1,11 @@
+[
+  {
+    "Id": "ffd55878-2325-4e4c-8095-03df7d497d53",
+    "MedicineId": "147884b1-8600-4e1e-af81-35f5344d7a0a",
+    "MedicineName": "medicine2",
+    "QuantitySold": 5,
+    "PricePerUnit": 2,
+    "TotalPrice": 10,
+    "SaleDate": "2026-05-08T20:01:32.7461754Z"
+  }
+]
