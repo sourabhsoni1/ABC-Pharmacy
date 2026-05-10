@@ -1,6 +1,3 @@
-# ABC-Pharmacy
-Repository for pharmacy assignment
-=======
 # ABC Pharmacy
 
 A Single Page Application for managing medicine inventory and sales records.
