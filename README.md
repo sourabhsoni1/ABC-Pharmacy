@@ -130,4 +130,3 @@ Controllers  →  Managers  →  Services
 - **Services** — read/write JSON files via `IJsonStorageService`
 
 All layers are wired via interfaces for dependency injection, registered in `Program.cs`.
->>>>>>> master
